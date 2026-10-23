@@ -1,81 +1,95 @@
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
+<p>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=Full-Stack+and+AI+Developer;React+Next.js+and+Node;LLM+Integrations+and+Automation"></p>
+ <p>I'm Jeffrey Recopuerto, a Full-Stack and AI Developer specializing in <b>web development</b>, <b>AI</b> and <b>automation</b>. <br>My expertise lies in crafting high-quality, responsive, and scalable web applications with React, Next.js, and Node, plus <b>LLM integrations</b> and <b>data pipelines</b>. <br>Let's bring your project to life with practical software and clear architecture!</p><b>
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=168&section=header&text=Jeffrey%20Recopuerto&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Jeffrey Recopuerto, Full-Stack and AI Developer"/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=white)](https://je-recopuerto-portfolio.vercel.app/)
-[![Website](https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://je-recopuerto.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/je-recopuerto-06ab92228)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Je_Recopuerto)
-
-I build web applications with React, Next.js, and Node, and I add practical AI on top: LLM integrations, automation, and data pipelines. The work runs from the interface through the API to deployment, with an emphasis on performance and a clear structure.
-
-Open to freelance work and new collaborations.
-
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50">
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50">
 </div>
-
-## What I work on
-
-| Area | How I use it |
-| --- | --- |
-| Product web apps | React, Next.js, TypeScript, Tailwind, and Redux, from the screen through the API |
-| Backend services | Node.js, Express, and NestJS, with PostgreSQL, MongoDB, Firebase, and Prisma |
-| AI features | LLM integrations, interview and content tools, and Python models for classification and fraud detection |
-| Delivery | AWS and Vercel, including live dashboards and public demos |
-
-## Stack
-
+<br>
 <div align="center">
-
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,redux,tailwind,mui,html,css)](https://github.com/je-recopuerto)
-
-**Backend and data**
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,python,prisma,firebase,postgres,mongodb)](https://github.com/je-recopuerto)
-
-**Cloud and tools**
-
-[![Cloud](https://skillicons.dev/icons?i=aws,vercel,git,github)](https://github.com/je-recopuerto)
-
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50">
 </div>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<h1 id="-languages-and-tools"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> Languages and Tools:</h1>
 
-AI work also uses OpenAI, Replicate, Hugging Face, and TensorFlow, depending on the project.
+</p>
 
-## Selected projects
+<ul>
+<li>Frontend</li>
+</ul>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,html,css,tailwind,materialui,bootstrap,sass,jquery,threejs">
+  </a>
+</p>
+<ul>
+<li>Backend</li>
+</ul>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ruby,rails,java,nodejs,py,django,spring,flask,fastapi,express,prisma,nestjs,sequelize">
+  </a>
+</p>
+<img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<ul>
+<li>Database</li>
+</ul>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,firebase">
+  </a>
+</p>
+<ul>
+<li>Cloud Servers</li>
+</ul>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare"><br><br>
+    <img src="https://skillicons.dev/icons?i=vercel,kubernetes">
+  </a>
+</p>
+<ul>
+<li>Tools</li>
+</ul>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux">
+  </a>
+</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
-| Project | What it does | Live |
-| --- | --- | --- |
-| [OPSpy](https://github.com/je-recopuerto/OPSPY.DEV-job-platform) | OSINT tool for cross-platform username discovery | [opspy.dev](https://www.opspy.dev) |
-| [Lime Journey](https://github.com/je-recopuerto/Lime-Journey) | Open-source customer engagement platform | [limejourney.com](https://www.limejourney.com) |
-| [Maha Boiler Dashboard](https://github.com/je-recopuerto/Maha_Boilerd) | Boiler records, inspections, and reporting for Maharashtra’s Directorate of Steam Boilers | [mahaboilerdashboard.in](https://www.mahaboilerdashboard.in) |
-| [PrepEdge AI](https://github.com/je-recopuerto/PrepEdge-AI) | Mock interviews with generated questions, scored feedback, and PDF reports | [prepedgeai.vercel.app](https://prepedgeai.vercel.app) |
-| [lil-genius](https://github.com/je-recopuerto/lil-genius) | AI tool suite on Next.js, Tailwind, Prisma, OpenAI, and Replicate | [lil-genius.vercel.app](https://lil-genius.vercel.app) |
-| [Cinemx](https://github.com/je-recopuerto/react-js-movie-web-application) | Movie browsing web app | [cinemx.vercel.app](https://cinemx.vercel.app) |
-| [Oral Cancer Classification](https://github.com/je-recopuerto/OralCancer) | Image model that classifies oral cancer levels | [Write-up](https://drive.google.com/file/d/1Zb20GGhKO8BYA9nBN9v_dh0xu98N2jVx/view) |
-| [Credit Card Fraud Detection](https://github.com/je-recopuerto/CC-Fraud-Detection) | Model that flags fraudulent card transactions | [Write-up](https://drive.google.com/file/d/1J0qJp74WCNf2w_Ln8Ef4MMXENwqAlFhV/view) |
 
-More work, including income-tax fraud detection, is on the [portfolio](https://je-recopuerto-portfolio.vercel.app/).
-
-## GitHub
-
+<p><img align="left" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
+<img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"></p>
+<p align="center" >💪 Full-Stack Web Development💪<br><br>
+⚡️ React, Next.js, and Node.js⚡️<br><br>
+🏆 AI Features and LLM Integrations 🏆 <br><br>
+🌍 Dashboards, APIs, and Automation 🌍<br><br>
+🛠️ Python Models and Data Pipelines 🛠️<br><br>
+🤝 Open for Freelance and Collaboration 🤝</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=je-recopuerto&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15">
+</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=je-recopuerto&amp;show_icons=true&amp;count_private=true&amp;theme=darcula&amp;hide_border=true&amp;hide=issues,contribs&amp;bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=je-recopuerto&amp;layout=compact&amp;hide_border=true&amp;theme=darcula&amp;bg_color=00000000&amp;langs_count=6&amp;hide=jupyter%20notebook,tex,css,php">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=je-recopuerto&amp;theme=darcula&amp;hide_border=true&amp;background=FFFFFF00">
+</p><p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p> -->
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=je-recopuerto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats for je-recopuerto"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=je-recopuerto&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages for je-recopuerto"/>
-
-</div>
-
-## Let's work together
-
-<div align="center">
-
-If you have a product, an AI feature, or a dashboard in mind, start here.
-
-[![Portfolio](https://img.shields.io/badge/View_portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=white)](https://je-recopuerto-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Message_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/je-recopuerto-06ab92228)
-[![Telegram](https://img.shields.io/badge/Message_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Je_Recopuerto)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=100&section=footer" width="100%" alt=""/>
-
-</div>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{je-recopuerto}/count.svg"></p> 
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> </div></b>
