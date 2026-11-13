@@ -3,7 +3,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"></p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=Full-Stack+and+AI+Developer;React+Next.js+and+Node;LLM+Integrations+and+Automation"></p>
  <p>I'm Jeffrey Recopuerto, a Full-Stack and AI Developer specializing in <b>web development</b>, <b>AI</b> and <b>automation</b>. <br>My expertise lies in crafting high-quality, responsive, and scalable web applications with React, Next.js, and Node, plus <b>LLM integrations</b> and <b>data pipelines</b>. <br>Let's bring your project to life with practical software and clear architecture!</p><b>
-<div align="center">
+<!-- <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50">
@@ -19,7 +19,7 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50">
-</div>
+</div> -->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <h1 id="-languages-and-tools"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> Languages and Tools:</h1>
 
